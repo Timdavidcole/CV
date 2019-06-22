@@ -11,7 +11,7 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 - Music is a blank canvas, with endless possiblities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
 
 ##### Calm communicator
-- Sleep deprived musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions always brought out the best in people. 
+- Sleep deprived musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
 
 ##### Grade 3 recorder 
 - I'm yet to find a situation this isn't useful in.
@@ -29,11 +29,7 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 
 - History BA, 2:1.
 - Module in web design.
-- Club night promoter on the side
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Club night promoter on the side.
 
 ## Experience
 
@@ -44,19 +40,18 @@ That in some arguable way make you a better software developer or well-rounded p
 **Fear & Delight - The Show** (2015 to 2016)   
 *Musical Director*  
 - Collaborated with musicians, acrobats and dancers to build a new theatrical show from scratch.
-- Did several seasons in Australia.
-- Working to EXTREMELY tight deadlines, with major musical changes throughout the run.
+- Performed several seasons in Australia.
+- Working to EXTREMELY tight deadlines from broad briefs, with major musical changes throughout the run.
 
 **Universal Music** (2008 to 2010)   
 *A&R Assistant*  
-- Collaborated with musicians, acrobats and dancers to build a new theatrical show from scratch.
-- Did several seasons in Australia.
-- Working to EXTREMELY tight deadlines, with major musical changes throughout the run.
+- Helped develop music releases from scratch, from compilations to major new releases.
+- Stuck to tight production deadlines, while co-ordinating studios and graphics designers to ensure product was delivered on time.
+- Quality assurance, ensuring all details and copy was correct before going to manufactoring.
 
 ## Hobbies
 
-- Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Sociology.  Always trying to watch lectures on-line and expanding my knowledge.
-- Weightlifting: Picking up things off the ground and putting them down again.  Someone's gotta do it.
+- Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Psychology.  Always trying to watch lectures on-line, expand my knowledge and bore people down the pub.
+- Weightlifting: Picking up things off the ground and putting them down again.
 - Cricket: Long suffering England fan.
-- 
-
+- Computer games: Long suffering Dark Souls fan.
