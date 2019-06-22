@@ -5,7 +5,7 @@ An ex-music producer putting down the synthesizers to search for dynamic team-ba
 ## Skills
 
 ##### Intuitive
-- Picking up new concepts quickly is key to keeping projects fresh and contemporary, whether technological or musical, this was a large part of my job, and one of the most rewarding.
+- Picking up new concepts quickly is key to keeping projects fresh and contemporary, whether technological or musical, this was a large part of my job, and one of the most rewarding.  I had to be fluent with multiple pieces of software, often changing by project.
 
 ##### Project Focused
 - Music is a blank canvas, with endless possibilities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
