@@ -10,16 +10,19 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 ##### Project Focused
 - Music is a blank canvas, with endless possiblities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
 
-##### Calm communicator
+##### Attention To Detail
+- Ensuring our finished projects were actually finished was actually the most challanging part of the job, and driving quality control through tight budgets and deadlines is what seperated an good album, from a great album.
+
+##### Calm Communicator
 - Sleep deprived musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
 
-##### Grade 3 recorder 
+##### Grade 3 Recorder 
 - I'm yet to find a situation this isn't useful in.
 
 ## Education
 
 #### Makers Academy (28/06/19 to 13/09/19)
-
+TBA
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -35,7 +38,11 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 
 **The Correspondents** (2008 to 2019)    
 *Music Producer*  
-- Any experience relevent to software development
+- Creative. Team-based. Highly focused.
+- Ran our own successful Limited business for over 5 years.
+- Toured the world.
+- Released 2 successful albums, several EPs. Helped run marketing & PR campaigns.
+- Music placed on TV shows, advertising campaigns.
 
 **Fear & Delight - The Show** (2015 to 2016)   
 *Musical Director*  
