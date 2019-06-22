@@ -43,8 +43,8 @@ TBA
 *Music Producer*  
 - Creative. Team-based. Ambitious.
 - Ran our own successful Limited business for over 5 years.
-- Toured the world.
-- Released 2 successful albums, several EPs. Helped run marketing & PR campaigns.
+- Toured the world.  Ran our own record label.
+- Self-released 2 successful albums, several EPs. Helped run marketing & PR campaigns.
 - Music placed on TV shows, advertising campaigns.
 
 **Fear & Delight - The Show** (2015 to 2016)   
