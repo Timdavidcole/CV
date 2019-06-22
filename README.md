@@ -1,6 +1,6 @@
 ## Tim Cole
 
-An ex-music producer putting down the synthesisers to search for dynamic team-based problem solving activities without the need to autotune anyone. For the past 12 years I've been a full-time producer for mostly one band [(The Correspondents)](https://www.thecorrespondents.co.uk/), with which I've toured the world, received millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions. Tech is often at the forefront of contemporary music, but after discovering how building little machines with words to solve the world's problems felt like magic; the chance to do that day-in day-out with other like minded people sounded like a career to me.
+An ex-music producer putting down the synthesisers to search for dynamic team-based problem solving activities without the need to autotune anyone. For the past 12 years I've been a full-time producer for mostly one band [(The Correspondents)](https://www.thecorrespondents.co.uk/), with which I've toured the world, received millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions. Tech is often at the forefront of contemporary music, but after discovering how building little machines with words to solve the world's problems felt like magic; the chance to do that day-in day-out with other like minded people sounded like an exciting new career to me.
 
 ## Skills
 
