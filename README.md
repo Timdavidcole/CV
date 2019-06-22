@@ -16,9 +16,6 @@ An ex-music producer putting down the synthesizers to search for dynamic team-ba
 ##### Calm Communicator
 - Sleep deprived musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
 
-##### Grade 3 Recorder 
-- I'm yet to find a situation this isn't useful in.
-
 ## Education
 
 #### Makers Academy (28/06/19 to 13/09/19)
