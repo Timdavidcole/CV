@@ -34,6 +34,12 @@ TBA
 - Module in web design.
 - Club night promoter on the side.
 
+#### A-Levels (2002)
+
+- Maths B
+- History B
+- Art A
+
 ## Experience
 
 **The Correspondents** (2008 to 2019)    
