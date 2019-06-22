@@ -28,7 +28,7 @@ TBA
 #### Leeds University (2003-2006)
 
 - History BA, 2:1.
-- Module in web design.
+- Module in web design. HTML.
 - Club night promoter on the side.
 
 #### A-Levels (2002)
