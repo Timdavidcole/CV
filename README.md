@@ -36,9 +36,9 @@ TBA
 
 #### A-Levels (2002)
 
+- Art A
 - Maths B
 - History B
-- Art A
 
 ## Experience
 
