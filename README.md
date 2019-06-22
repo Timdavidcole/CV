@@ -52,6 +52,6 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 ## Hobbies
 
 - Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Psychology.  Always trying to watch lectures on-line, expand my knowledge and bore people down the pub.
-- Weightlifting: Picking up things off the ground and putting them down again.
+- Weightlifting: Picking things up off the ground and putting them back down again.
 - Cricket: Long suffering England fan.
 - Computer games: Long suffering Dark Souls fan.
