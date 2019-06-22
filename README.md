@@ -1,10 +1,20 @@
-## Your Name
+## Tim Cole
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+An ex-music producer putting down the synthesisers to search for dynamic team-based problem solving activities without the need to autotune anyone. For the past 12 years I've been a full-time producer for mostly one band [(The Correspondents)](https://www.thecorrespondents.co.uk/), with which I've toured the world, recieved millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions. Tech is often at the forefront of contemporary music, but after discovering how building little machines with words to solve the world's problems felt like magic; the chance to do that day-in day-out with other like minded people sounded like a career to me.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+##### Intuitive
+-
+
+##### Project Focused
+- Music is a blank canvas, with endless possiblities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
+
+##### Calm communicator
+
+##### Grade 3 recorder 
+- I'm yet to find a situation this isn't useful in.
+
 
 #### This Skill
 
