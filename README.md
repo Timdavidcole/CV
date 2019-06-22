@@ -16,36 +16,20 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 ##### Grade 3 recorder 
 - I'm yet to find a situation this isn't useful in.
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (28/06/19 to 13/09/19)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Leeds University (2003-2006)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History BA, 2:1.
+- Module in web design.
+- Club night promoter on the side
 
 #### Any other qualifications
 
@@ -53,14 +37,26 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**The Correspondents** (2008 to 2019)    
+*Music Producer*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Fear & Delight - The Show** (2015 to 2016)   
+*Musical Director*  
+- Collaborated with musicians, acrobats and dancers to build a new theatrical show from scratch.
+- Did several seasons in Australia.
+- Working to EXTREMELY tight deadlines, with major musical changes throughout the run.
+
+**Universal Music** (2008 to 2010)   
+*A&R Assistant*  
+- Collaborated with musicians, acrobats and dancers to build a new theatrical show from scratch.
+- Did several seasons in Australia.
+- Working to EXTREMELY tight deadlines, with major musical changes throughout the run.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Sociology.  Always trying to watch lectures on-line and expanding my knowledge.
+- Weightlifting: Picking up things off the ground and putting them down again.  Someone's gotta do it.
+- Cricket: Long suffering England fan.
+- 
+
