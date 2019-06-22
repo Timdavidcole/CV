@@ -65,3 +65,10 @@ TBA
 - Weightlifting: Picking things up off the ground and putting them back down again.
 - Cricket: Long suffering England fan.
 - Computer games: Long suffering Dark Souls fan.
+
+## Contact
+
+- github [(TimDavidCole)](https://github.com/Timdavidcole)
+- codewars [(TimDavidCole)](https://www.codewars.com/users/Timdavidcole)
+
+
