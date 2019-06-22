@@ -44,7 +44,7 @@ TBA
 
 **The Correspondents** (2008 to 2019)    
 *Music Producer*  
-- Creative. Team-based. Highly focused.
+- Creative. Team-based. Ambitious.
 - Ran our own successful Limited business for over 5 years.
 - Toured the world.
 - Released 2 successful albums, several EPs. Helped run marketing & PR campaigns.
