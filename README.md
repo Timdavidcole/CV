@@ -5,12 +5,13 @@ An ex-music producer putting down the synthesisers to search for dynamic team-ba
 ## Skills
 
 ##### Intuitive
--
+- Picking up new concepts quickly is key to keeping projects fresh and contemporary, whether technological or musical, this was a large part of my job, and one of the most rewarding.
 
 ##### Project Focused
 - Music is a blank canvas, with endless possiblities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
 
 ##### Calm communicator
+- Sleep driven musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions always brought out the best in people. 
 
 ##### Grade 3 recorder 
 - I'm yet to find a situation this isn't useful in.
