@@ -18,7 +18,7 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Final Project](https://www.bbc.co.uk) | TBA | TBA |
-| [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | I spent two days on this classic kata, refactoring a hideous mess of nested if/else conditionals to use duck typing and inheritance. | Ruby, RSpec |
+| [Personal Project](https://www.bbc.co.uk) | TBA | TBA |
 |[Acebook](https://github.com/riannemcc/acebook-RVs)| This full-stack Facebook clone was our introductuction to group-based projects from scratch. We had to use Rails, which took some getting used to, but overall we're really happy with what we put together in the time frame, from sticking to Agile principles to version control to our presentation to the rest of our cohort. | Ruby, Rails, Sinatra, Javascript, Jquery, HTML, CSS, Selenium-Webdriver, Rubocop, Simplecov, RSpec, Capybara, Postgres|
 | [Chitter](https://github.com/Timdavidcole/Chitter-frontend-api-challenge) | A Twitter clone that I decided to make my first fourrée into React. The back-end API was provided to us by Makers so another pure Front-End project.  I really enjoyed working with React, and once I got my head around components/props/state really enjoyed how powerful the framework is. | React, CSS |
 | [Bowling Scorecard](https://github.com/Timdavidcole/bowling-challenge) | This was my first javascript/jQuery front-end project, a simple bowling scoredboard. I really enjoyed making this and it sowed my love for front-end. | Javascript, Jasmine, jQuery, Ruby, Sinatra |
