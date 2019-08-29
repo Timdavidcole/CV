@@ -23,6 +23,8 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 | [Chitter](https://github.com/Timdavidcole/Chitter-frontend-api-challenge) | A Twitter clone that I decided to make my first fourrée into React. The back-end API was provided to us by Makers so another pure Front-End project.  I really enjoyed working with React, and once I got my head around components/props/state really enjoyed how powerful the framework is. | React, CSS |
 | [Bowling Scorecard](https://github.com/Timdavidcole/bowling-challenge) | This was my first javascript/jQuery front-end project, a simple bowling scoredboard. I really enjoyed making this and it sowed my love for front-end. | Javascript, Jasmine, jQuery, Ruby, Sinatra |
 
+Also a few tech-tests for good measure [Gilded Rose](https://github.com/Timdavidcole/guilded-rose), [Bank Test](https://github.com/Timdavidcole/bank-tech-test).
+
 ## Skills
 
 ##### Intuitive
