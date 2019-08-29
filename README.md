@@ -19,7 +19,7 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 |---        |---         |---           |
 | [Final Project](https://www.bbc.co.uk) | TBA | TBA |
 | [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | I spent two days on this classic kata, refactoring a hideous mess of nested if/else conditionals to use duck typing and inheritance. | Ruby, RSpec |
-| [Instagram](https://github.com/pmuldoon86/instagram-challeng) | A weekend challenge to build an Instagram clone.  I used Chrome DevTools to inspect and copy the styling from Instagram.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, Paperclip |
+| [Bowling Scorecard](https://github.com/Timdavidcole/bowling-challenge) | A weekend challenge to build an Instagram clone.  I used Chrome DevTools to inspect and copy the styling from Instagram.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, Paperclip |
 |[Acebook](https://github.com/pmuldoon86/acebook)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course.  I built much of the front end and also worked on building a polymorphic comment feature.  | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres|
 | [Chitter](https://github.com/pmuldoon86/chitter-challenge) | An Twitter clone made over a weekend after one month on the Makers course.  As Sinatra is less automated than Rails, I manually created all the user authentication features using bcrypt.  I used partials for the views and refactored the controller logic to separate files. | Ruby/Sinatra, RSpec, Capybara, bcrypt |
 
@@ -29,24 +29,28 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 - Picking up new concepts quickly is key to keeping projects fresh and contemporary, whether technological or musical, this was a large part of my job, and one of the most rewarding.  Development is no different, and diving into a new framework/language/technology is incredibly rewarding.
 
 ##### Project Focused
-- Music is a blank canvas, with endless possibilities. So divining discrete objectives, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
+- Music is a blank canvas, with endless possibilities. So divining discrete objectives and knowing when to finalise, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
 
 ##### Attention To Detail
 - Ensuring our finished projects were actually finished was the most challenging part of the job, and driving quality control through tight budgets and deadlines is what separated a good album, from a great album.
 
 ##### Calm Communicator
-- Sleep deprived soundman, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
+- Sleep deprived soundmen, prima donna acrobats and neurotic managers are just some of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
 
 ##### Self-Starter
-- Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was my day-to-day experience. 
+- Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was the day-to-day experience. 
+
+##### Chrome Management
+- Not having too many tabs open at any one time.  Just let them go.
 
 ## Education
 
 #### Makers Academy (28/06/19 to 13/09/19)
-TBA
+
 - OOP, TDD, BDD, MVC
-- Agile/XP, pair programming
-- Ruby, Rails, JavaScript
+- Agile/XP, pair programming, self-led learning
+- Absorbing and writing documentation
+- Ruby, Rails, JavaScript, jQuery
 - RSpec, Jasmine, Capybara
 
 #### Leeds University (2003-2006)
