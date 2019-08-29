@@ -20,7 +20,7 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 | [Final Project](https://www.bbc.co.uk) | TBA | TBA |
 | [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | I spent two days on this classic kata, refactoring a hideous mess of nested if/else conditionals to use duck typing and inheritance. | Ruby, RSpec |
 |[Acebook](https://github.com/pmuldoon86/acebook)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course.  I built much of the front end and also worked on building a polymorphic comment feature.  | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres|
-| [Chitter](https://github.com/pmuldoon86/chitter-challenge) | An Twitter clone made over a weekend after one month on the Makers course.  As Sinatra is less automated than Rails, I manually created all the user authentication features using bcrypt.  I used partials for the views and refactored the controller logic to separate files. | Ruby/Sinatra, RSpec, Capybara, bcrypt |
+| [Chitter](https://github.com/Timdavidcole/chitter-challenge) | An Twitter clone made over a weekend after one month on the Makers course.  Another front-end project, as the back-end API was provided to us by Makers. | Ruby/Sinatra, RSpec, Capybara, bcrypt |
 | [Bowling Scorecard](https://github.com/Timdavidcole/bowling-challenge) | This was my first javascript/jQuery front-end project, a simple bowling scoredboard. I really enjoyed making this and it sowed my love for front-end. | javascript, jasmine, jquery, Ruby, Sinatra |
 
 ## Skills
