@@ -17,7 +17,7 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Final Project](https://www.bbc.co.uk) | This was my final project at Makers Academy. A full-stack bee-tracking iOS app with a [Rails backend API](https://github.com/pmuldoon86/beeAppy_api) which I built myself and deployed to [Heroku](https://bee-appy.herokuapp.com/bees) and a React-Native front-end.
+| [Final Project](https://www.bbc.co.uk) | TBA | TBA |
 | [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | I spent two days on this classic kata, refactoring a hideous mess of nested if/else conditionals to use duck typing and inheritance. | Ruby, RSpec |
 | [Instagram](https://github.com/pmuldoon86/instagram-challeng) | A weekend challenge to build an Instagram clone.  I used Chrome DevTools to inspect and copy the styling from Instagram.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, Paperclip |
 |[Acebook](https://github.com/pmuldoon86/acebook)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course.  I built much of the front end and also worked on building a polymorphic comment feature.  | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres|
