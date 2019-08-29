@@ -1,6 +1,16 @@
 ## Tim Cole
 
-An ex-music producer putting down the synthesizers to search for dynamic team-based problem solving activities without the need to autotune anyone. For the past 9 years I've been a full-time producer for mostly one band [(The Correspondents)](https://www.thecorrespondents.co.uk/), with which I've toured the world, received millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions. Tech is often at the forefront of contemporary music, but after discovering how building little machines with words to solve the world's problems felt like magic; the chance to do that day-in day-out with other like minded people sounded like an exciting new career to me.
+An ex-music producer putting down the synthesizers to search for dynamic team-based problem solving activities without the need to autotune anyone. 
+
+For the past 9 years I've been a full-time producer for mostly one band [(The Correspondents)](https://www.thecorrespondents.co.uk/), with which I've toured the world, received millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions.
+
+Tech is often at the forefront of contemporary music, but after discovering how building little machines with words to solve the world's problems felt like magic; the chance to do that day-in day-out with other like minded people sounded like an exciting new career to me.
+
+I'm looking for a junior developer front-end or full-stack role in an organisation where I can continue to work at the highest possible standard.
+
+__Tech Skills__: Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (including ES6), React-Native, jQuery, Jasmine, PostgreSQL
+
+__Behavioural Skills__: XP, TDD, Agile, pair programming, whole-team projects, code reviews
 
 ## Skills
 
@@ -16,14 +26,18 @@ An ex-music producer putting down the synthesizers to search for dynamic team-ba
 ##### Calm Communicator
 - Sleep deprived musicians, prima donna acrobats and neurotic managers are just a few of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
 
+## Projects
+
+
+
 ## Education
 
 #### Makers Academy (28/06/19 to 13/09/19)
 TBA
-- OOP, TDD, MVC, DDD
+- OOP, TDD, BDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
 #### Leeds University (2003-2006)
 
