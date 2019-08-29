@@ -40,9 +40,6 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 ##### Self-Starter
 - Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was the day-to-day experience. 
 
-##### Chrome Management
-- Not having too many tabs open at any one time.  Just let'em go man, just let them go.
-
 ## Education
 
 #### Makers Academy (28/06/19 to 13/09/19)
