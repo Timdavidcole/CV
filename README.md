@@ -83,6 +83,7 @@ Also a few tech-tests for good measure [Gilded Rose](https://github.com/Timdavid
 ## Hobbies
 
 - Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Psychology.  Always trying to watch lectures on-line, expand my knowledge and bore people down the pub.
+- Music: Like it all!  First loves were Hip Hop/Jazz/Funk/Soul...
 - Weightlifting: Picking things up off the ground and putting them back down again.
 - Cricket: Long suffering England fan.
 - Computer games: Long suffering Dark Souls fan.
