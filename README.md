@@ -10,7 +10,7 @@ I'm looking for a junior developer front-end or full-stack role in an organisati
 
 __Tech Skills__: Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (including ES6), React,  Redux, jQuery, Jasmine, PostgreSQL, MongoDB
 
-__Behavioural Skills__: XP, TDD, Agile, pair programming, whole-team projects, code reviews
+__Behavioural Skills__: TDD, Agile, pair programming, XP, code reviews
 
 ## Projects
 For a complete list, see my [Github](https://github.com/Timdavidcole).
