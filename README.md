@@ -93,5 +93,5 @@ Also a few tech-tests for good measure [Gilded Rose](https://github.com/Timdavid
 - github [(TimDavidCole)](https://github.com/Timdavidcole)
 - codewars [(TimDavidCole)](https://www.codewars.com/users/Timdavidcole)
 - linkedIn [(TimothyCole)](https://www.linkedin.com/in/timothy-cole-096758a3/)
-- OnePageCV [(TimothyCole)](https://i.imgur.com/qVhpuwl.png/)
+- [OnePageCV](https://i.imgur.com/qVhpuwl.png/)
 
