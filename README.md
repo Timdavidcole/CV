@@ -15,7 +15,7 @@ For a complete list, see my [Github](https://github.com/Timdavidcole).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Meet In The Midl](https://github.com/Timdavidcole/meet-in-the-middle-react-front-end) | Our final project at Makers, a fair and equal way of working out where to meet a friend (in London).  We had two weeks, and just about got it working!  We opted for a React single page app, with a pretty light Rails API back end.  Main difficulties were making the stack far too top heavy, putting 3rd party API calls in the front-end, and not having enough time to test the algorithm for edge cases. | Ruby, Rails, Javascript, React, Cypress, Jest, Rspec |
+| [Meet In The Midl](https://github.com/Timdavidcole/meet-in-the-middle-react-front-end) | Our final project at Makers, a fair and equal way of working out where to meet a friend (in London).  We had two weeks, and just about got it working!  We opted for a React single page app, with a fairly light Rails API back end.  Main difficulties were making the stack far too top heavy, putting 3rd party API calls in the front-end, and not having enough time to test the algorithm for edge cases. | Ruby, Rails, Javascript, React, Cypress, Jest, Rspec |
 | [Village Green](https://github.com/Timdavidcole/village-green-backend-api) | This is a work in progress, and my first fully personal project from concept to design to deployment. I've now finished the rudimentary backend API.  All Node.js & Express and deployed on Heroku (working on AWS). Then I'll start building the front-end soon in React & Redux.  The basic idea is an online parish/community noticeboard based on location, where users can only post to their home address.  | Javscript, Node.js, Express, React, Redux, AWS |
 |[Acebook](https://github.com/riannemcc/acebook-RVs)| This full-stack Facebook clone was our introductuction to group-based projects from scratch. We had to use Rails, which took some getting used to, but overall we were really happy with what we put together in the time frame, from sticking to Agile principles to version control to our presentation to all the other groups. | Ruby, Rails, Javascript, Jquery, HTML, CSS, Selenium-Webdriver, Rubocop, Simplecov, RSpec, Capybara, Postgres|
 | [Chitter](https://github.com/Timdavidcole/Chitter-frontend-api-challenge) | A Twitter clone that I decided to make my first fourrée into single page React land. The back-end API was provided to us by Makers so another pure Front-End project.  I really enjoyed working with React, and once I got my head around components/props/state really enjoyed how powerful the framework is. | React, CSS |
@@ -25,19 +25,16 @@ Also a few classic tech-tests for good measure [Gilded Rose](https://github.com/
 ## Skills
 
 ##### Intuitive
-- Picking up new concepts quickly is key to keeping projects fresh and contemporary, whether technological or musical, this was a large part of my job, and one of the most rewarding.  Development is no different, and diving into a new framework/language/technology is incredibly rewarding.
-
-##### Project Focused
-- Music is a blank canvas, with endless possibilities. So divining discrete objectives and knowing when to finalise, whether in the studio or the meeting room, was a large part of my job.  I took pride in directing ambitions, reading the market and building campaigns.
+- Music production required me to be fully on top of the latest technologies and quickly learn new instruments as situations required. I had to teach myself how to use everything from ancient mixing consoles to live video DJing software to a professional level extremely quickly.
 
 ##### Attention To Detail
-- Ensuring our finished projects were actually finished was the most challenging part of the job, and driving quality control through tight budgets and deadlines is what separated a good album, from a great album.
+- During my time at Universal Music an extremely methodical approach was needed to ensure legal copy was correct for multi-CD compliations.  The difference between good and great sounding music is very much in the details.
 
-##### Calm Communicator
-- Sleep deprived soundmen, prima donna acrobats and neurotic managers are just some of the types of people you need to keep on side and motivated as a music producer.  Keeping your cool in stressful creative environments, while being open to all opinions I found always brought out the best in people. 
+##### Empathetic
+- While I was the musical director for Fear & Delight: The Show I had to create new bespoke soundtracks for established acrobats, who often had been performing to the same music for years.  Plenty of diplomacy was needed to convert them to my new creations!
 
 ##### Self-Starter
-- Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was the day-to-day experience. 
+- Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was the day-to-day experience. I also started the first ever Electro Swing club night in Leeds during university.
 
 ## Education
 
@@ -80,7 +77,7 @@ Also a few classic tech-tests for good measure [Gilded Rose](https://github.com/
 ## Hobbies
 
 - Academia: I have a broad interest in most areas of unstructured learning, from Biology to Politics, to Maths and Psychology.  Always trying to watch lectures on-line, expand my knowledge and bore people down the pub.
-- Music: Like it all!  First loves were Hip Hop/Jazz/Funk/Soul...
+- Music: Like it all!  First loves were Hip Hop/Jazz/Funk/Soul...  I've DJed most of my adult life.
 - Weightlifting: Picking things up off the ground and putting them back down again.
 - Cricket: Long suffering England fan.
 - Computer games: Long suffering Dark Souls fan.
