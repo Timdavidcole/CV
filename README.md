@@ -4,7 +4,7 @@ An ex-music producer putting down the synthesizers to search for dynamic team-ba
 
 For the past 9 years I've been a full-time producer, mostly for a two-man band [(The Correspondents)](https://www.youtube.com/watch?v=ABS-mlep5rY). With which I've toured the world, received millions of youtube views and collaborated across multiple projects from album releases with international marketing and PR campaigns, to ensemble theatrical productions.
 
-After completing the Makers Academy bootcamp I'm now looking for a junior developer front-end or full-stack role in an organisation where I can continue to learn and make little machines with words, get far too excited about passing tests and air punch after finding a bug.
+After completing the Makers Academy bootcamp I'm now looking for a junior developer front-end or full-stack role in an organisation where I can continue to learn and make little machines with words, get far too excited about passing tests and air punch after solving a bug.
 
 __Tech Skills__: Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (including ES6), React,  Redux, jQuery, Jasmine, PostgreSQL, MongoDB
 
