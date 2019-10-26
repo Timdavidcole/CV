@@ -1,6 +1,6 @@
 ## Tim Cole
 
-Ex music producer putting down the synthesizers and globe trotting career to build little machines with words and new challenges to solve.  My desire to pursue a few start-up ideas led me to pick up some design and coding basics, which I soon enjoyed more than the ideas themselves.  Which then led me to the Makers Academy bootcamp, during which I developed passions for Javascript, OOP, and breaking down complex problems. It deeply engrained the need to TDD wherever possible to create clean, efficient and legible code. As well as the desire to grow and learn, help and be helped.  I’m particularly experienced with React, Javascript and Ruby.
+Ex music producer putting down the synthesizers and globe trotting career to build little machines with words and seek new challenges to solve.  My desire to pursue a few start-up ideas led me to pick up some design and coding basics, which I soon enjoyed more than the ideas themselves.  Which then led me to the Makers Academy bootcamp, during which I developed passions for Javascript, OOP, and breaking down complex problems. It deeply engrained the need to TDD wherever possible to create clean, efficient and legible code. As well as the desire to grow and learn, help and be helped.  I’m particularly experienced with React, Javascript and Ruby.
 
 __Tech Skills__: Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (including ES6), React,  Redux, jQuery, Jasmine, PostgreSQL, MongoDB
 
