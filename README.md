@@ -31,7 +31,7 @@ Also a few classic tech-tests for good measure [Gilded Rose](https://github.com/
 - During my time at Universal Music an extremely methodical approach was needed to ensure legal copy was correct for multi-CD compliations.  The difference between good and great sounding music is very much in the details.
 
 ##### Empathetic
-- While I was the musical director for Fear & Delight: The Show I had to create new bespoke soundtracks for established acrobats, who often had been (safetly) performing to the same music for years.  Plenty of diplomacy was needed to convert them to my new creations!
+- While I was the musical director for Fear & Delight: The Show I had to create new bespoke soundtracks for established acrobats, who often had been (safetly) performing to the same music for years.  Plenty of diplomacy was needed to convert them to my new creations!  I also had to regularly run bands for live performances, organising rehearsals and writing parts for musicians. 
 
 ##### Self-Starter
 - Nothing happens in music unless you make it happen.  Organising tours/recording schedules/bookkeeping was the day-to-day experience. I also started the first ever Electro Swing club night in Leeds during university.
